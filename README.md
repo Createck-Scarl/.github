@@ -1,6 +1,6 @@
 # CREATECK Centre for Research, Engineering and Advanced Technologies for Collaborative Knowledge
 <p align="center">
-  <img src="./banner.png" alt="Createck — Dove i dati condivisi diventano nuova conoscenza" width="100%"/>
+  <img src="./images/banner.png" alt="Createck — Dove i dati condivisi diventano nuova conoscenza" width="100%"/>
 </p>
 
 <p align="center">
@@ -43,12 +43,12 @@ Rispondere bene a queste domande è ciò che distingue un progetto di AI che fun
 
 ---
 
-## <img src="./icon_comitato.png" width="30" align="top"/> Comitato Tecnico Scientifico
+## <img src="./images/icon_comitato.png" width="30" align="top"/> Comitato Tecnico Scientifico
 
 **Createck** è un **Organismo di Ricerca**, cioè un soggetto senza scopo di lucro, dedito ad attività di produzione e diffusione di nuova conoscenza. 
 Le tecnologie abilitanti sono quelle dell’informatica e dell’analisi dati.
 
-## <img src="./icon_ai.png" width="30" align="top"/> Siamo per un'AI comunitaria e democratica
+## <img src="./images/icon_ai.png" width="30" align="top"/> Siamo per un'AI comunitaria e democratica
 
 •  Implementiamo pipeline di lavoro distribuito in ambieto AI per vari profili di specializzazione, utilizzando **strumenti aperti**, semplici, trasparenti.
 
@@ -56,19 +56,19 @@ Le tecnologie abilitanti sono quelle dell’informatica e dell’analisi dati.
 
 ---
 
-## <img src="./icon_dati.png" width="30" align="top"/> Rendiamo possibile la raccolta sistematica dei dati
+## <img src="./images/icon_dati.png" width="30" align="top"/> Rendiamo possibile la raccolta sistematica dei dati
 
 Ci occupiamo della **raccolta dei dati** per i progetti di ricerca e innovazione, sensorizzando l'ambiente e/o coinvolgendo community nella raccolta.
 
 ---
 
-## <img src="./icon_soluzioni.png" width="30" align="top"/> Rendiamo tecnologie complesse soluzioni alla portata di tutti
+## <img src="./images/icon_soluzioni.png" width="30" align="top"/> Rendiamo tecnologie complesse soluzioni alla portata di tutti
 
 •  Forniamo **consulenza tecnica** in ambito statistico e AI per i tuoi progetti innovativi
 
 •  Adattiamo gli **strumenti di analisi** più potenti alla misura dei problemi delle persone e delle imprese.
 
-## <img src="./icon_insieme.png" width="30" align="top"/> Costruiamo qualcosa insieme
+## <img src="./images/icon_insieme.png" width="30" align="top"/> Costruiamo qualcosa insieme
 
 Che tu sia un'**azienda** con una sfida sui dati, un **gruppo di ricerca** in cerca di
 nuovi strumenti, o un **partner** interessato all'AI collaborativa — ci farebbe
