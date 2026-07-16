@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="./icon_rete.png" width="30" align="top"/> Concepiamo l'innovazione come frutto di una rete
+## <img src="./images/icon_rete.png" width="30" align="top"/> Concepiamo l'innovazione come frutto di una rete
 
 Collaboriamo con **università** e **imprese**, con specialisti di diversi ambiti applicativi, per sviluppare applicazioni innovatore basate sul paradigma dell'Intelligenza Artificiale.
 
