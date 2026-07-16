@@ -51,7 +51,7 @@ Le tecnologie abilitanti sono quelle dell’informatica e dell’analisi dati.
 
 ## 🤝 Siamo per un'AI comunitaria e democratica
 
-•  Implementiamo pipeline di lavoro distribuito in ambieto AI per vari profili di specializzazione, utilizzando **strumenti aperti**, semplici, trasparenti.
+•  Implementiamo pipeline di lavoro distribuito in ambieto AI per vari profili di specializzazione, utilizzando **strumenti aperti**, semplici, trasparenti.··
 •  Promuoviamo un uso responsabile dei dati e delle applicazioni in ambito AI adottando i **principi FAIR** e prediligendo l'**explainability**.
 
 ---
@@ -64,7 +64,7 @@ Ci occupiamo della **raccolta dei dati** per i progetti di ricerca e innovazione
 
 ## 💡 Rendiamo tecnologie complesse soluzioni alla portata di tutti
 
-•  Forniamo **consulenza tecnica** in ambito statistico e AI per i tuoi progetti innovativi
+•  Forniamo **consulenza tecnica** in ambito statistico e AI per i tuoi progetti innovativi··
 •  Adattiamo gli **strumenti di analisi** più potenti alla misura dei problemi delle persone e delle imprese.
 
 ## 💬 Costruiamo qualcosa insieme
