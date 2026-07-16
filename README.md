@@ -32,6 +32,7 @@ AI riesce o silenziosamente fallisce: la **raccolta di dati organizzata e finali
 Farla bene significa rispondere alle domande difficili:
 
 |  |  |
+|--|--|
 | 🔍 **Significatività** | I dati sono davvero rilevanti rispetto alla finalità? |
 | 📐 **Dimensionamento** | Quanti dati, di che tipo, raccolti come? |
 | 👥 **Community** | Come si coinvolge e si forma una community di contributori? |
